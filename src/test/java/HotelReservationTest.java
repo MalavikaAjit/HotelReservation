@@ -8,6 +8,4 @@ public class HotelReservationTest {
         boolean result = hotelReservation.addHotel("Lakewood",110.0,3);
         Assertions.assertTrue(result);
     }
-
-
 }
